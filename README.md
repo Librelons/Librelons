@@ -6,7 +6,7 @@ Estudante universitário apaixonado por tecnologia e movido pela resolução de 
 -💼 Experiência prévia como Jovem Aprendiz no Sicoob, onde desenvolvi habilidades de atendimento e rotinas corporativas.
 -🏃‍♂️ Nas horas vagas, foco na disciplina — comecei uma rotina de corrida em abril de 2026.
 ## Ferramentas e Tecnologias
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23538DD7.svg?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
           
           
           
